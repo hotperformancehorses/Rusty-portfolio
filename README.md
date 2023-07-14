@@ -10,3 +10,5 @@ In this challenge, I created a professional portfolio using HTML and CSS. The po
 - Clicking on non-placeholder applications will take the user to the deployed application on my GitHub.
 - The page is designed to be responsive on different screen sizes, including tablets and mobile phones.
 - Various links and projects have on hover effects.
+
+https://github.com/hotperformancehorses/career-portfolio
