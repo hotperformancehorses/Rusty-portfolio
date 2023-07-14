@@ -12,3 +12,4 @@ In this challenge, I created a professional portfolio using HTML and CSS. The po
 - Various links and projects have on hover effects.
 
 https://github.com/hotperformancehorses/career-portfolio
+https://hotperformancehorses.github.io/career-portfolio/
